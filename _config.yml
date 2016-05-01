@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.8052295
+color:
+  saturation: 0.2350143
+  lightness: 0.6340268
+  brandStrength: 0.4129692
+  brandColors:
+    - '#E4E5E7'
+    - '#6A6B6D'
+    - '#F50200'
+    - '#18181A'
+    - '#FC8187'
+  rhythmicContrast: 0.7400967
+name: Lumenium
